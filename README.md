@@ -1,6 +1,6 @@
 <h1>Hi, I'm Umar!</h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 My Projects</h2>
 
 
 - [AWS IAM Privilege Escalation Scanner](https://github.com/umar-zama/aws-iam-privesc-scanner)
